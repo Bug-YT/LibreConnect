@@ -4,4 +4,4 @@
 
 ## License
 
-[`MIT`](LICENSE)
+The license for this project is [`MIT`](LICENSE)
